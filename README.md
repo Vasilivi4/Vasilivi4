@@ -1,6 +1,3 @@
-<div align="center">
- <img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1737917668/images/oaxpgxskgslgrhmf59n9.png" alt="image">
-</div>
 <img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1737904115/images/iqjlf2ywbpammulpiisl.png" alt="image">
 <b>
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎩 ☂️  
