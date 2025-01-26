@@ -17,7 +17,7 @@
 
 <p align="center">Hi. Yes, I do have a lot of thoughts in my head.
 <br>Recently I started thinking about my goals and dreams for the future.
-<br>I realized that I want to succeed in my career and become a professional in my field.
+<br>I realize that I want to succeed in my career and become a professional in my field.
 <br>Also, I've been thinking about what kind of person I want to be and what contribution I can bring to this world.
 <br>Perhaps you can share your thoughts and experiences on these issues?
 
