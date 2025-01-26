@@ -1,13 +1,13 @@
 ![image](https://res.cloudinary.com/dxcgfa3e2/image/upload/v1737904115/images/iqjlf2ywbpammulpiisl.png)
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎩 ☂️  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✌️🎲🤞  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧣  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👖  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👞👞  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☣️Sh♈rIk☣️  
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎩 ☂️  
+<br>✌️🎲🤞  
+<br>🧣  
+<br>👖  
+<br>👞👞  
+<br>☣️Sh♈rIk☣️  
 
-<p>Привет! Да, у меня действительно много мыслей в голове.  
+<p align="center">Привет! Да, у меня действительно много мыслей в голове.  
 <br>Недавно я начал задумываться о своих целях и мечтах на будущее.  
 <br>Я понял, что хочу достичь успеха в своей карьере и стать профессионалом в своей области.  
 <br>Также, я задумался о том, какой я хочу быть человеком и каким вкладом я могу принести в этот мир.  
