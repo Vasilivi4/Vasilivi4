@@ -40,4 +40,14 @@
 <br>I need to keep moving forward and stride towards my goal.
 
 <p align="center">
-<br>☣️Sh♈rIk☣️ 
+<br>☣️Sh♈rIk☣️
+
+###
+<h2 align="left">My tools</h2>
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695707/images/zuhw7wta7zjfdcw2xi94.ico">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695707/images/bfvcbtrwq7kiae8rxdj5.png">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695707/images/akfmcrijvhqlqgpu5hso.png">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695707/images/h6hss76lt4k2fw2obgh0.ico">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695707/images/ecabpg1pks0kprxfr89o.png">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695706/images/yt2dwjuttmgrv5ytldmy.png">
+<img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695706/images/blvge8ws9hjupsgxvzvd.png">
