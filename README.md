@@ -55,7 +55,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Vasilivi4&color=blue)
 
-![GitHub contributors](https://img.shields.io/github/contributors/Vasilivi4/Personal Assistant)
+![GitHub contributors](https://img.shields.io/github/contributors/Vasilivi4/personal_assistant)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vasilivi4)](https://github.com/ryo-ma/github-profile-trophy)
 
