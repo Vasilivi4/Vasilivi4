@@ -52,4 +52,7 @@
 <img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695706/images/yt2dwjuttmgrv5ytldmy.png">
 <img src="https://res.cloudinary.com/dxcgfa3e2/image/upload/v1738695706/images/blvge8ws9hjupsgxvzvd.png">
 
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=Vasilivi4&color=blue)
+
+![GitHub contributors](https://img.shields.io/github/contributors/Vasilivi4/money_man)
