@@ -56,5 +56,3 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Vasilivi4&color=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vasilivi4)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vasilivi4&color=blue)
